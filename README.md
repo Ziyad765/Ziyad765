@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently perusing my 4th year btech degree in computer science and design engineering at government engineering collage kozhikode .<br>passionate coder and tech enthusiast.
+Computer science and design engineer from government engineering collage kozhikode .<br>passionate coder and tech enthusiast.
 
 
 ## 🌐 Socials:
